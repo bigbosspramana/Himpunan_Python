@@ -32,7 +32,6 @@ pip install himpunan
 Link PyPI : https://pypi.org/project/himpunan-team2/0.1.0/
 
 # Credit
----
 - Alvin Yuga Pramana
 - Jason Bintang Setiawan
 - Javin Erasmus Clementino
